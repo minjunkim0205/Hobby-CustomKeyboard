@@ -2,11 +2,8 @@
 
 # F2-60 보강판 파일들
 
-| File | Description |
-| --- | --- |
-| `f2-60-mx-he-venom-7u-625u-plate.step` | 제작용 STEP 파일 |
-| `f2-60-mx-he-venom-7u-625u-plate-autocad-001.png` | AutoCAD 미리보기 |
-| `f2-60-mx-he-venom-7u-625u-plate-fusion360-001.png` | Fusion 360 미리보기 1 |
-| `f2-60-mx-he-venom-7u-625u-plate-fusion360-002.png` | Fusion 360 미리보기 2 |
-| `f2-60-mx-he-venom-7u-625u-plate-fusion360-003.png` | Fusion 360 미리보기 3 |
-| `f2-60-mx-he-venom-7u-625u-plate-jlccnc-001.png` | JLC CNC 제작 미리보기 |
+F2-60 하우징에 맞춘 보강판 도면입니다. 상세 페이지에서 STEP 파일 다운로드와 미리보기를 확인할 수 있습니다.
+
+| 보강판 | 호환 기판 | 배열 | 상세 |
+| --- | --- | --- | --- |
+| F2-60 HE Venom Plate | Venom | 7U / 6.25U | [보기](<F2-60_7u625u_plate_HE(VENOM).md>) |

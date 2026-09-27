@@ -1,7 +1,9 @@
 ﻿[← 뒤로가기](../README.md)
 
-# BD60 Plate Files
+# BD60 보강판 파일들
 
-| File | Description |
-| --- | --- |
-| `bd60-plate-og.dwg` | BD60 하우징용 원본 보강판 DWG |
+BD60 하우징에 맞춘 보강판 도면입니다. 상세 페이지에서 도면 파일을 다운로드할 수 있습니다.
+
+| 보강판 | 종류 | 상세 |
+| --- | --- | --- |
+| BD60 OG Plate | 원본 DWG | [보기](BD60_plate_OG.md) |

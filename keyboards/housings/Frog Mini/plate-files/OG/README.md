@@ -2,11 +2,11 @@
 
 # Frog Mini OG 보강판 파일들
 
-| File | Description |
-| --- | --- |
-| `frog-mini-standard-cut.dxf` | Frog Mini 표준 컷 DXF |
-| `frog-mini-alu-plate.dwg` | 원본 알루미늄 보강판 DWG |
-| `frog-mini-alu-plate-edit-non-half-flex.dwg` | Non Half Flex 수정본 DWG |
-| `frog-mini-alu-plate-edit-non-half-flex.bak` | Non Half Flex 수정본 백업 |
-| `frog-mini-alu-plate-edit-non-half-flex-temp.dwg` | Non Half Flex 임시 수정본 DWG |
-| `frog-mini-alu-plate-edit-non-half-flex-temp.bak` | Non Half Flex 임시 수정본 백업 |
+Frog Mini OG 알루미늄 보강판 자료입니다. 상세 페이지에서 각 도면 파일을 다운로드할 수 있습니다.
+
+| 보강판 | 종류 | 상세 |
+| --- | --- | --- |
+| Frog Mini Standard Cut | DXF | [보기](frog-mini-standard-cut.md) |
+| Frog Mini OG Plate | 원본 DWG | [보기](Frog_Mini_plate_OG.md) |
+| Frog Mini OG Non Half Flex | 수정본 DWG | [보기](Frog_Mini_plate_OG_non-half-flex.md) |
+| Frog Mini OG Non Half Flex Temp | 임시 수정본 DWG | [보기](Frog_Mini_plate_OG_non-half-flex_temp.md) |

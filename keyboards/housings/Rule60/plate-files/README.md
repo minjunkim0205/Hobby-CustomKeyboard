@@ -2,11 +2,9 @@
 
 # Rule60 보강판 파일들
 
-| File | Description |
-| --- | --- |
-| `rule60-mx-he-venom-7u-625u-plate.dwg` | Rule60 MX/HE(Venom) 7U/6.25U 보강판 |
-| `rule60-625u-plate-ae61-pro.dwg` | AE61 Pro용 Rule60 6.25U 보강판 DWG |
-| `rule60-625u-plate-ae61-pro.png` | AE61 Pro용 Rule60 6.25U 보강판 미리보기 |
-| `rule60-625u-7u-plate-venom60he.png` | Venom60HE용 6.25U/7U 보강판 미리보기 |
-| `rule60-both-plate-venom60he.dwg` | Venom60HE용 양쪽 호환 보강판 DWG |
-| `rule60-both-plate-venom60he.bak` | Venom60HE용 양쪽 호환 보강판 백업 |
+Rule60 하우징에 맞춘 보강판 도면입니다. 상세 페이지에서 도면 파일 다운로드와 미리보기를 확인할 수 있습니다.
+
+| 보강판 | 호환 기판 | 배열 | 상세 |
+| --- | --- | --- | --- |
+| Rule60 HE Venom Plate | Venom | 7U / 6.25U | [보기](<Rule60_7u625u_plate_HE(VENOM).md>) |
+| Rule60 AE61 Pro Plate | AE61 Pro | 6.25U | [보기](<Rule60_625u_plate_HE(AE61_PRO).md>) |
